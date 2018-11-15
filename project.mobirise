@@ -160,12 +160,17 @@
               "loop": false
             }
           },
-          "text": "<p>MEGA NET</p>",
+          "text": "<p><b>TEST STRONY WWW</b></p>",
           "_tags": [
             "Motywy"
           ],
           "_name": "video1",
-          "_anchor": "video1-5"
+          "_anchor": "video1-5",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_styles": {
